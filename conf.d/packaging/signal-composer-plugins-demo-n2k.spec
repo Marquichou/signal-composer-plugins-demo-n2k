@@ -7,7 +7,6 @@ Group:          Development/Libraries/C and C++
 License:        APL2.0
 URL:            http://git.ovh.iot/redpesk/redpesk-common/canbus-plugins-redpesk.git
 Source:         %{name}-%{version}.tar.gz
-Patch:          0001-Fix-pkgconfig-issues.patch
 
 BuildRequires:  afm-rpm-macros
 BuildRequires:  cmake
